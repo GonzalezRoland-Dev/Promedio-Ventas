@@ -12,7 +12,9 @@ Aplicación desarrollada en **Python + Streamlit** que permite:
 👉 [Prueba la app aquí](https://gonzalezroland-dev-promedio-ventas.streamlit.app/)  
 
 ## 🖥️ Capturas de la App
-*(Agrega aquí imágenes de tu app funcionando: subida de archivos, tabla ordenada, promedio mostrado, botón de descarga)*
+<img width="1919" height="804" alt="image" src="https://github.com/user-attachments/assets/390efd22-0227-474b-b5c7-39c8a7890001" />
+<img width="1919" height="619" alt="image" src="https://github.com/user-attachments/assets/525a46ed-764c-4baf-bd4b-804ff2906c74" />
+<img width="584" height="744" alt="image" src="https://github.com/user-attachments/assets/3d1ebc2c-0512-4e10-a5fb-d757b4a47005" />
 
 ## ⚙️ Tecnologías usadas
 - **Python**: procesamiento de datos.
